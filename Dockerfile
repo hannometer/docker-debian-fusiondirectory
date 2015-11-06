@@ -12,4 +12,5 @@ RUN apt-get update && \
     fusiondirectory-plugin-systems=${FUSIONDIRECTORY_DEB_PKG_VERSION} \
     fusiondirectory-plugin-ldapdump=${FUSIONDIRECTORY_DEB_PKG_VERSION} \
     fusiondirectory-plugin-ldapmanager=${FUSIONDIRECTORY_DEB_PKG_VERSION} \
-    fusiondirectory-plugin-weblink=${FUSIONDIRECTORY_DEB_PKG_VERSION} 
+    fusiondirectory-plugin-weblink=${FUSIONDIRECTORY_DEB_PKG_VERSION} \
+    fusiondirectory-plugin-webservice=${FUSIONDIRECTORY_DEB_PKG_VERSION}
